@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sifat
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ReactJS
+- 👀 Interested in coding
+- 🌱 Currently learning ReactJS
 - 📫 How to reach me - shifatbbaria@gmail.com
 
 <!---
